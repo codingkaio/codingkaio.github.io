@@ -9,6 +9,9 @@
 ## Layout Mobile 📱
 ![preview](https://github.com/codingkaio/codingkaio.github.io/blob/codingkaio-img/codingkaio-mobile.png)
 
+## Layout Original 🐺
+![preview](https://github.com/codingkaio/codingkaio.github.io/blob/codingkaio-img/origamid-original.png)
+
 ## ⚙️ Tecnologias aplicadas
 
 - HTML
